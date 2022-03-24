@@ -10,7 +10,7 @@ Conceive, design, prototype, and test a product that will keep a standard, large
 
 Overview ([PDF]({{< baseurl >}}/resources/mit21w_732f10_proj1over))
 
-Graphic representation of Project I (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21w_732f10_proj1graphic))
+Graphic representation of Project I ([PDF]({{< baseurl >}}/resources/mit21w_732f10_proj1graphic))
 
 Project I class notes/agenda ([PDF]({{< baseurl >}}/resources/mit21w_732f10_proj1notes))
 
@@ -22,4 +22,4 @@ Project I proposal madlib ([PDF]({{< baseurl >}}/resources/mit21w_732f10_madlib1
 
 White paper assignment and madlib ([PDF]({{< baseurl >}}/resources/mit21w_732f10_whitepaper))
 
-Brainstorming example (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21w_732f10_proj1example))
+Brainstorming example ([PDF]({{< baseurl >}}/resources/mit21w_732f10_proj1example))

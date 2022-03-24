@@ -45,7 +45,7 @@ Teaching Approach
 *   To write the write, you need to read the read; to talk the talk, you need to listen.
 *   Communicators put more time and effort into communicating when subject matter is near and dear.
 
-Almost all work in 21W.732 is based on the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Peer-Review Evaluation Process (PDF)](http://pergatory.mit.edu/resources/random/Peer%20Review%20Process.pdf) design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
+Almost all work in 21W.732 is based on the [Peer-Review Evaluation Process (PDF)](http://pergatory.mit.edu/resources/random/Peer%20Review%20Process.pdf) design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
 Assignments
 -----------
